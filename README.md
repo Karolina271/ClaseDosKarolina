@@ -20,6 +20,5 @@ def hola_mundo():
 | Texto 1      | Texto 2      | Texto 3      |
 | Texto 4      | Texto 5      | Texto 6      |
 
-
 ## Referencias
 [Google](https://www.google.com)
