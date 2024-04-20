@@ -1,4 +1,4 @@
 # ClaseDosKarolina
 ## Título dos 
-Creación de repositorio y manejo de MarkDown 
 ### titulo pequeño 
+Creación de repositorio y manejo de MarkDown 
