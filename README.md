@@ -5,7 +5,7 @@
 Creación de repositorio y manejo de MarkDown 
 - versión uno.
 - versión dos.
-*Karito* 
-**Karolina**
+ *Karito* 
+ **Karolina**
 ## Referencias
 [Google](https://www.google.com)
