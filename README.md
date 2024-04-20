@@ -1,2 +1,4 @@
 # ClaseDosKarolina
-Los grandes nombres de repositorios son breves y fáciles de recordar. ¿Necesitas inspiración? Qué tal si 
+## Título dos 
+creación de repositorio y manejo de MarkDown 
+
