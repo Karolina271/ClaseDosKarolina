@@ -7,9 +7,11 @@ Creación de repositorio y manejo de MarkDown
 - versión dos.
  *Karito* 
  **Karolina**
+  
   ```python
 def hola_mundo():
     print("Hola, mundo!")
 ```
+
 ## Referencias
 [Google](https://www.google.com)
