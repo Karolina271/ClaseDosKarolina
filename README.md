@@ -8,15 +8,17 @@ Creación de repositorio y manejo de MarkDown
  *Karito* 
  **Karolina**
   
-  ```python
+```python
 def hola_mundo():
     print("Hola, mundo!")
 ```
+
+
 ## Tablas
-| karo 1 | karo 2 | karo3 3 |
-|--------|--------|---------|
-| karo 1 | karo 2 | karo 3  |
-| karo 4 | Texto 5| karo 6  |
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+|--------------|--------------|--------------|
+| Texto 1      | Texto 2      | Texto 3      |
+| Texto 4      | Texto 5      | Texto 6      |
 
 ## Referencias
 [Google](https://www.google.com)
