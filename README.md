@@ -26,7 +26,7 @@ def hola_mundo():
 ## Imágenes
 
 <p align="center">
-<img src="./Logos/luna.jpg" height="200">
+<img src="./Logos/luna.jpg" height="500">
 </p>
 
 
