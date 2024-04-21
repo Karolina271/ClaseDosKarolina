@@ -22,3 +22,9 @@ def hola_mundo():
 
 ## Referencias
 [Google](https://www.google.com)
+
+## Imágenes
+
+<p align="center">
+<img src="./Logos/logo.jpeg" height="100">
+</p>
